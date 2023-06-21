@@ -1,0 +1,28 @@
+﻿  FINAL-PROJECT.cpp
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(61,19): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(132,19): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(133,25): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(137,19): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(138,25): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(145,25): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(146,25): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(150,25): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(151,25): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(831,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(835,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(923,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(925,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(991,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(992,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(1035,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(1036,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(1061,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(1063,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(1409,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(3222,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(3233,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(3244,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(3269,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(3277,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\FINAL-PROJECT\FINAL-PROJECT.cpp(3286,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  FINAL-PROJECT.vcxproj -> C:\Users\Ahmed Abdullah\source\repos\FINAL-PROJECT\x64\Debug\FINAL-PROJECT.exe
